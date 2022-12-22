@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Yasin  </h1> 
+<h1 align="center">Hello! I'm Yasin  </h1> 
 <h3 align="Left">Computer Science & Engineering Student <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=yasincorekci&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge" alt="yasincorekci"/></h3>
 <p align="right"> 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Testing**
 
-- 💬 Ask me about **anything, I would love to help**
+- 💬 Ask me about **anything, I would be delighted to assist.**
 
 - 📫 How to reach me **yasincorekcicse@gmail.com**
 
