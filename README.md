@@ -24,11 +24,11 @@
 <h3>My Profile in Numbers:</h3>
 <p align="center">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobryke&show_icons=true&count_private=true&theme=radical&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasincorekci&show_icons=true&count_private=true&theme=radical&" />
 </a>
 <a href="#">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobryke&theme=radical" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasincorekci&theme=radical" /></a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobryke&layout=compact&hide=CSS,html&langs_count=5&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasincorekci&layout=compact&hide=CSS,html&langs_count=5&theme=radical"/>
 </a>
 </p>
