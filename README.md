@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything, I would love to help**
 
-- 📫 How to reach me **yasincorekcicsegmail.com**
+- 📫 How to reach me **yasincorekcicse@gmail.com**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
