@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an AI Project**
 
-- 🌱 I’m currently learning **Software Testing**
+- 🌱 I’m currently learning **Software Testing.**
 
 - 💬 Ask me about **anything, I would be delighted to assist.**
 
