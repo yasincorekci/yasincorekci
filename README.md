@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Yasin  </h1> 
-<h3 align="Left">Computer Science Student <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=yasincorekci&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge" alt="yasincorekci"/></h3>
+<h3 align="Left">Computer Science & Engineering Student <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=yasincorekci&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge" alt="yasincorekci"/></h3>
 <p align="right"> 
 
  </p>
@@ -21,14 +21,3 @@
 
    
   
-<h3>My Profile in Numbers:</h3>
-<p align="center">
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasincorekci&show_icons=true&count_private=true&theme=radical&" />
-</a>
-<a href="#">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasincorekci&theme=radical" /></a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasincorekci&layout=compact&hide=CSS,html&langs_count=5&theme=radical"/>
-</a>
-</p>
