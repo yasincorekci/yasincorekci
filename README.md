@@ -15,9 +15,7 @@
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yasincorekci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yasincorekci/" height="40" width="40" /></a>
-</p>
-<a href="https://linkedin.com/in/yasincorekci"(https://twitter.com/yasincrkc)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yasincorekci/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/yasincorekci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twitter.com/yasincrkc" height="40" width="40" /></a>
 </p>
 
 
