@@ -5,7 +5,7 @@
  </p>
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on **an AI Project**
+- 🔭 I’m currently working on **an AI Project.**
 
 - 🌱 I’m currently learning **Software Testing.**
 
