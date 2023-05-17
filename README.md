@@ -1,6 +1,5 @@
 <h1 align="center">Hello! I'm Yasin  </h1> 
-<h3 align="Left">Senior Computer Science & Engineering Student <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=yasincorekci&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge" alt="yasincorekci"/></h3>
-<p align="right"> 
+<h3 align="Left">Senior Computer Science & Engineering Student 
 
  </p>
 <h3>About Me:</h3>
