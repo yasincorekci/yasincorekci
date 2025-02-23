@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Yasin  </h1> 
-<h3 align="Left">Senior Computer Science & Engineering Student 
+<h3 align="Left"> Computer Engineer & Software Developer
 
  </p>
 <h3>About Me:</h3>
