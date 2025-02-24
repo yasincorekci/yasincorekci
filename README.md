@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything, I would be delighted to assist.**
 
-- 📫 How to reach me **yasincorekcicse@gmail.com**
+- 📩 How to reach me **yasincorekcicse@gmail.com**
 
 <h3 align="left">🔍 Find me on:</h3>
 <p align="left">
