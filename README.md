@@ -2,7 +2,7 @@
 <h3 align="Left"> 📌 Computer Engineer & Software Developer
 
  </p>
-<h3>About Me:</h3>
+<h3>💬About Me:</h3>
 
 - 🔭 I’m currently working on **an NLP Project.**
 
