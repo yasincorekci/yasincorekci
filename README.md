@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **anything, I would be delighted to assist.**
 
-- 📫 How to reach me **yasin.cs@gmail.com**
+- 📫 How to reach me **yasincorekcicse@gmail.com**
 
-<h3 align="left">Find me on:</h3>
+<h3 align="left">🔍 Find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasincorekci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yasincorekci" height="40" width="40" /></a>
 </a>
